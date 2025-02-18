@@ -8,7 +8,7 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.quizonlinekt.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
+class  MainActivity : AppCompatActivity() {
 
     lateinit var binding: ActivityMainBinding
     lateinit var quizModelList: MutableList<QuizModel>
